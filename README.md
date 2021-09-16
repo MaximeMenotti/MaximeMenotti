@@ -21,6 +21,6 @@ const maxime = {
       since: "08/2017"
     },
   ],
-availableForHire: false
+  availableForHire: false
 }
 ```
