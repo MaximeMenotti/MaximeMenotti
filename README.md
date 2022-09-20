@@ -11,8 +11,8 @@ const maxime = {
   education: "Master of computer science at Lille 1 University.",
   otherAlias: "Full Stack Developer",
   codesIn: ["Javascript", "HTML", "CSS", "PHP"],
-  currentlylearning: ["Svelte", "Micro-frontends"],
-  frameworks: ["React", "TailwindCSS"]
+  currentlylearning: ["Micro-frontends"],
+  frameworks: ["Svelte", "SvelteKit", "React", "NextJs", "TailwindCSS"],
   toolsUsing: ["Sass", "GCP", "Docker", "Strapi", "Firebase", "Figma", "Varnish", "gitmoji"],
   experiences: [
     {
