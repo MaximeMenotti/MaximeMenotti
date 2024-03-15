@@ -4,21 +4,31 @@
 <h3 align="left"><strong>
 I seek to contribute to this world with my love of tech and JS stuffs.</strong></h3>
 
-### **aboutMe.js**
-
 ```javascript
+// aboutMe.js
+
 const maxime = {
   education: "Master of computer science at Lille 1 University.",
-  otherAlias: "Full Stack Developer",
+  otherAlias: "Senior Software Engineer",
   codesIn: ["Javascript", "HTML", "CSS", "PHP"],
   currentlylearning: ["Micro-frontends"],
-  frameworks: ["Svelte", "SvelteKit", "React", "NextJs", "TailwindCSS"],
-  toolsUsing: ["Sass", "GCP", "Docker", "Strapi", "Firebase", "Figma", "Varnish", "gitmoji"],
+  frameworksAndLibraries: ["Svelte", "SvelteKit", "React", "NextJs", "TailwindCSS"],
+  toolsUsing: ["Tailwind", "GCP", "Docker", "Supabase", "Figma"],
   experiences: [
     {
       company: "Decathlon",
       post: "IS Engineer | Full stack developer"
       since: "08/2017"
+    },
+    {
+      company: "Decathlon",
+      post: "Software Engineer II"
+      since: "01/2021"
+    },
+    {
+      company: "Decathlon",
+      post: "Senior Software Engineer"
+      since: "01/2024"
     },
   ],
   availableForHire: false
